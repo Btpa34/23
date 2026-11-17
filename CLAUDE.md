@@ -8,7 +8,8 @@ Creado: 17 nov 2026 (America/Mexico_City).
 - En Meta, Blitz tiene su propio portafolio comercial ("Blitz Caps"). Ojo: ahí existe una cuenta llamada "RITMO" (`2316733822415824`) que **no** es la de la marca RITMO de DROP.
 
 ## Estado
-- FALTA DATO: el contexto de Blitz (el "cerebro", `BLITZ_NOW.md`) todavía no está en este repo. Al traerlo, va en `contexto/`.
+- Lo que Drop sabía de Blitz: `contexto/BLITZ-datos-que-habia-en-drop-17nov.md`.
+- FALTA DATO: el cerebro de Blitz (`BLITZ_NOW.md`) todavía no está en este repo. Al traerlo, va en `contexto/`.
 
 ## Quién es quién
 - **Bayron**: dueño. Toda autorización viene de él.
